@@ -1,0 +1,2 @@
+rootProject.name='MAD Final'
+include ':app'
